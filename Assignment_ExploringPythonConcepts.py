@@ -1,6 +1,6 @@
 
 # Task 1
-
+print('Task 1 \n')
 name = "Maanya" # My name
 age = 22 # My age
 height = 5.5 # My height
@@ -8,7 +8,7 @@ height = 5.5 # My height
 print(f"Hey there, my name is {name}! I’m {age} years old and {height} feet tall.") # My intro message
 
 # Task 2 
-
+print('Task 2 \n')
 num1 = 1
 num2 = 1
 
@@ -26,7 +26,7 @@ print("Dividing", num1, "by", num2, "gives", num1 / num2) #Divide num 1 with num
 
 
 # Task 3
-
+print('Task 3 \n')
 user_input = input("Enter a number: ")
 
 number = float(user_input) # in case of a decimal, float is necessary 
