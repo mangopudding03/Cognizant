@@ -1,5 +1,5 @@
 # Task 1 
-print('Task 1 \n')
+print('Task 1')
 start = int(input("Enter the starting number: "))
 
 while start > 0:
@@ -9,7 +9,7 @@ print("Blast off! \n")
 
 
 # Task 2
-print('Task 2 \n')
+print('\n Task 2')
 num = int(input("Enter a number: "))
 
 for i in range(1, 11):
@@ -18,7 +18,7 @@ print()
 
 
 # Task 3 
-print('Task 3 \n')
+print('Task 3')
 n = int(input("Enter a number: "))
 factorial = 1
 
