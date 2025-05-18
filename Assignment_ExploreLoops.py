@@ -9,7 +9,7 @@ print("Blast off! \n")
 
 
 # Task 2
-print('\n Task 2')
+print('\n Task 2 \n')
 num = int(input("Enter a number: "))
 
 for i in range(1, 11):
