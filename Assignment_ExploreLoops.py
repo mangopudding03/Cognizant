@@ -18,7 +18,7 @@ print()
 
 
 # Task 3 
-print('Task 3')
+print('\n Task 3')
 n = int(input("Enter a number: "))
 factorial = 1
 

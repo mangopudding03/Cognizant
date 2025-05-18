@@ -1,5 +1,5 @@
 
-print("Task 1 \n")
+print("Task 1")
 textstring = "Python is amazing"
 #First word
 print("First word: ",textstring[:6])
@@ -8,7 +8,7 @@ print("Amazing part: ", textstring[10:17])
 #Reversed string
 print("Reversed string: ",textstring[::-1])
 
-print("Task 2")
+print("\n Task 2")
 textstring2 = " hello, python world! "
 
 textstring2stripped = textstring2.strip()                  # Remove leading/trailing spaces
